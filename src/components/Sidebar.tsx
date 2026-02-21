@@ -7,6 +7,7 @@ export default function Sidebar() {
     { href: '/projects', label: 'Projects', icon: FolderKanban },
     { href: '/campaigns', label: 'Campaigns', icon: Calendar },
     { href: '/assets', label: 'Assets', icon: ImageIcon },
+    { href: '/calendar', label: 'Calendar', icon: Calendar },
     { href: '/analytics', label: 'Analytics', icon: BarChart3 },
     { href: '/settings', label: 'Settings', icon: Settings },
   ];
